@@ -1,7 +1,6 @@
 # _UI-UX Design Resources And Many More_ 🖌🎨
 ![headerimage](https://user-images.githubusercontent.com/69143883/94293824-858f2580-ff7c-11ea-935a-4c586a4e236e.png)
-![175897745-9717a5f9-4dbd-42a8-acba-8d07407bff80 1](https://github.com/Asura0209/UX-UI-Resources/assets/108258871/e036eeaa-62a6-4f4d-b77c-52380d494863)
-
+![175897745-9717a5f9-4dbd-42a8-acba-8d07407bff80 1](https://github.com/Asura0209/UX-UI-Resources/assets/108258871/05b53ecb-0228-42d9-b3bd-bf5df816efb9)
 
 ## _Table of content_
   - _[UI Graphics](#ui-graphics)_
